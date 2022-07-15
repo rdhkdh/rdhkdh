@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Machine Learning projects</br>
 🌱 I’m currently learning App Development </br>
 📫 Reach me at: rdhkdh21@gmail.com </br>
+[My LinkedIn] (www.linkedin.com/in/rdhkdh21) </br>
 ⚡ Fun fact: I am a gardening enthusiast and nature-lover.🌱🌳 I'm also an avid reader. </br> 
 💬 Feel free to connect with me about my code, favourite novels, or all things green! 🍀🌿</br>
