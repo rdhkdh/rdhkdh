@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I'm Ridhiman Dhindsa, a coding enthusiast currently studying Computer Science at IIT Guwahati. 
+I'm Ridhiman Dhindsa, a coding enthusiast currently studying Computer Science at IIT Guwahati.</br> 
 
 <!--
 **rdhkdh/rdhkdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
