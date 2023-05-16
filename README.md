@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Machine Learning projects</br>
-🌱 I’m currently learning App Development </br>
+🔭 I’m currently working on Machine Learning and Flutter projects</br>
+🌱 I’m exploring domains under Android Development, Web Development, Deep Learning </br>
+👯 I have contributed to open source too, including the XROS (Extended Reality Open Source) Fellowship Program (sponsored by Meta, knowledge and technical partner: Government of India). I secured the 6th position amongst contributors in the organization- Ethereal Engine, by making open source contributions in the field of AR-VR. [XROS Fellowships](https://xrosfellowship.ficci.in/) </br>
+👯 I am a GSSoC'23 Contributor. Super excited for a fun-filled summer of PRs and merges! [GirlScript Summer of Code](https://gssoc.girlscript.tech/#about-gssoc) </br>
 📫 Reach me at: rdhkdh21@gmail.com </br>
-📫 My LinkedIn: www.linkedin.com/in/rdhkdh21 </br>
+📫 My LinkedIn: [www.linkedin.com/in/rdhkdh21](www.linkedin.com/in/rdhkdh21) </br>
 ⚡ Fun fact: I am a gardening enthusiast and nature-lover.🌱🌳 I'm also an avid reader. </br> 
-💬 Feel free to connect with me about my code, favourite novels, or all things green! 🍀🌿</br>
+💬 Feel free to connect with me about my code, favourite novels, or all things green! 🍀🌿</br></br>
+
+![Here's my GirlScript Summer of Code 2023 Badge!]("D:\Ridhiman_IITG\ridhiman docs\gssoc_badge.png")  
