@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green) </br>
 ### Hi there 👋
 I'm Ridhiman Dhindsa, a coding enthusiast currently studying Computer Science at IIT Guwahati.</br> 
 
