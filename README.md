@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I am a gardening enthusiast and nature-lover.🌱🌳 I'm also an avid reader. </br> 
 💬 Feel free to connect with me about my code, favourite novels, or all things green! 🍀🌿</br></br>
 
-![Here's my GirlScript Summer of Code 2023 Badge!]("D:\Ridhiman_IITG\ridhiman docs\gssoc_badge.png")  
+Here's my GSSoc'23 Badge!</br>
+
+<img src="https://github.com/rdhkdh/rdhkdh/assets/93422234/ac3119c5-fcdb-4c76-8304-c033253a9a3e" width="600" height="400">
